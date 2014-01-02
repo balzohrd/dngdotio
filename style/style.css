@@ -1,6 +1,13 @@
 body{
 	text-align:center;
-	background-image: linear-gradient(top, #a9dba9, #b6d8c0);
+	background: #a9dba9; /* Old browsers */
+	background: -moz-linear-gradient(top, #a9dba9 0%, #008c6d 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#a9dba9), color-stop(100%,#008c6d)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top, #a9dba9 0%,#008c6d 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top, #a9dba9 0%,#008c6d 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top, #a9dba9 0%,#008c6d 100%); /* IE10+ */
+	background: linear-gradient(to bottom, #a9dba9 0%,#008c6d 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a9dba9', endColorstr='#008c6d',GradientType=0 ); /* IE6-9 */
 }
 h2{
 	font-family: 'Special Elite';
