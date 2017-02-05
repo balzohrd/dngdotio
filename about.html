@@ -1,0 +1,53 @@
+---
+layout: blog
+title: About
+permalink: /about/
+excerpt: DNG designs, builds, and develops remarkable, custom websites AND generates effective digital marketing solutions 
+team:
+  - name: Daniella Azencot
+    image_path: /assets/images/dan.png
+    position: Digital Marketing Strategist
+    info: Internet Geek · Yoga Enthusiast · Cultured Foodie · Wunderlust Traveler
+    google_plus: +DaniellaAzencot
+    linkedin_link: http://www.linkedin.com/in/daniellaa
+    twitter_username: dan_i_ella
+    email_address: daniella@dng.io
+  - name: Gal Azencot
+    image_path: /assets/images/gal_a.png
+    position: Full Stack Web Developer
+    info: Hackathon Junkie · Web Programmer · Fixie Aficionado · Culinarian
+    google_plus: +GalAzencot
+    linkedin_link: http://www.linkedin.com/pub/gal-azencot/8b/a66/264
+    github: balzohrd
+    email_address: gal@dng.io
+---
+<h1 class="page-heading">About</h1>
+<p>D and G Web Remedies (or DNG) is a family owned and operated digital
+    collaboration.</p>
+
+<p>We know that many small and local businesses owners struggle to compete with big brand names when it comes to marketing their brand or products online. And we know that trying to build and market your own website is a time-consuming and costly endeavor.</p>
+
+<p>DNG is here to change that.</p>
+
+<p>Simply put, DNG designs, builds, and develops remarkable, custom websites AND generates effective digital marketing solutions that produce results, on time and at half the price of our competition, guaranteed.</p>
+
+<p>As digital natives, we’ve been prescribing robust, yet affordable, web remedies and revamping the digital identities of small and local businesses since 2008. We're based in sunny Los Angeles, California but we work with talent around the world to serve local and national clients, big and small. If you think you’ve got the talents to work with our team, please contact us for more information</p>
+
+<section id="team">
+  <h1>Who We Are</h1>
+  {% for team_member in page.team %}
+  		<div class="tprofile">
+  			<img src="{{team_member.image_path}}" width="200" height="200" alt="{{team_member.name}}">
+  			<h1>{{team_member.name}}</h1>
+  			<p>{{team_member.position}}</p>
+        <h2>{{team_member.info}}</h2>
+        <p id="icons">
+          {% if team_member.google_plus %}<a href="https://google.com/{{team_member.google_plus}}" target="_new"><i class="fa fa-google-plus fa-fw fa-lg"></i></a>{% endif %}
+          {% if team_member.linkedin_link %}<a href="{{ team_member.linkedin_link }}" target="_new"><i class="fa fa-linkedin fa-fw fa-lg"></i></a>{% endif %}
+          {% if team_member.github %}<a href="https://github.com/{{ team_member.github }}" target="_new"><i class="fa fa-github fa-fw fa-lg"></i></a>{% endif %}
+          {% if team_member.twitter_username %}<a href="https://www.twitter.com/{{ team_member.twitter_username }}" target="_new"><i class="fa fa-twitter fa-fw fa-lg"></i></a>{% endif %}
+          {% if team_member.email_address %}<a href="mailto:{{ team_member.email_address }}" target="_new"><i class="fa fa-inbox fa-fw fa-lg"></i></a>{% endif %}
+        </p>
+  		</div>
+  		{% endfor %}
+</section>

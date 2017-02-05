@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Words Wine Women"
+categories:
+excerpt: Words, Wine and Women is an exciting video web series about women empowerment that offers a unique look into the realm of today’s woman.
+---
+
+<img class="l-image" src="/assets/images/wwwB.jpg"> Words, Wine and Women is an exciting video web series about women empowerment that offers a unique look into the realm of today’s woman. They needed a website for this new web series to match their strong, intelligent, dynamic and unique supportive forum that features weekly video segments that could also easily be updated weekly with new videos.
+
+<a href="http://wordswinewomen.com" class="visitbtn" target="_blank">Visit The Site <i class="fa fa-angle-double-right"></i></a>
+
+</br></br>
+
+**1. The Story**
+
+We were intrigued when the founder of Words, Wine and Women came to us to create a platform where she could present her idea of a new type of talk-show for women. The concept was simple and genius; put 5 females in a room, mix in a little wine, and get some pretty interesting conversations. Our goal was to create a supportive forum where women (and men) could feel comfortable enough to challenge each other on hot topics all while having a blast. Although we didn’t get to join in on any of the racy conversations, it was our job to design a great looking (sexy) and easy to use website. The founder of the site had developed a branding identity, so we worked with the style and colors already in place as a starting point for the design. And yes, a lot of pink was involved. The result? <img class="r-image" src="/assets/images/wwwM.jpg"> A design that looks quite different from most of the other sites we’ve done. This color scheme is traditional and feminine yet bold and fresh to appeal to the “modern women” Words, Wine and Women directly targets. Built on a simple, customized Wordpress theme, the site is easy to manage, update and upload and publish new videos to.
+
+
+**2. Season One, Success!!**
+
+ Needless to say, Words, Wine and Women really kicked off after debuting their first season in early 2015. The production value and talents of each host on the web series are truly the stars of the show. Our designs simply help to feature these videos so the women of Words, Wine and Women can have fun doing all the talking!

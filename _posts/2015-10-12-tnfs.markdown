@@ -1,0 +1,20 @@
+---
+layout: post
+title: "That Never Fading Smile"
+categories:
+excerpt: A collaboration website between D & G Web Remedies and Friends. Dedicated to the loving memory of Levon Thomas, a friend, son, brother, and cousin that left us much too soon.
+---
+
+<img class="l-image" src="/assets/images/tnfsB.jpg"> That Never Fading Smile is a collaboration website between D & G Web Remedies and Friends. It is dedicated to the loving memory of Levon Thomas, a friend, son, brother, and cousin that left us much too soon. After losing our dear friend, we needed a space to continue to share the passion we all have for music and create a place where other music lovers such as ourselves, could share what they’re listing to, too.
+
+<a href="https://ThatNeverFadingSmile.com" class="visitbtn" target="_blank">Visit The Site <i class="fa fa-angle-double-right"></i></a>
+
+</br>
+
+**1. Our Vision**
+
+What truly began as a form of self-expression and in many ways, a platform to mourn the loss of a loved one, quickly turned into an exciting and fun side project we are deeply passionate about. <img class="r-image" src="/assets/images/tnfsM.jpg"> As music lovers inspired by sounds, riffs and lyrics of various genres from all around the world, we never imagined that this site would receive the response it has. Since we love finding and sharing new artists and song with our friends anyway, this site has also become a great source for visitors to discover cool new music. Check it out, Listen, Enjoy and always rock That Never Fading Smile
+
+**2. The Back End**
+
+That Never Fading Smile runs on Jekyll, a simple, blog-friendly, static site generator and accesses audio files directly from Soundcloud playlists handpicked and updated weekly.

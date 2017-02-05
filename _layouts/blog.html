@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+  {% include google_analytics.html %}
+  <body>
+
+    {% include header.html %}
+    {% include social.html %}
+    <div class="page-content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </div>
+
+    {% include footer.html %}
+
+    <script src="//cdn.jsdelivr.net/headroomjs/0.5.0/headroom.min.js"></script>
+   <script type="text/javascript">
+     var el = document.querySelector(".header-container");
+     var headroom  = new Headroom(el, {
+       "offset": 205,
+       "tolerance": 5
+     });
+     headroom.init();
+   </script>
+
+  </body>
+
+</html>
